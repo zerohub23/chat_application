@@ -1,0 +1,69 @@
+.logo{
+    display: block;
+    margin: auto;
+    width:50px;
+    height:50px;
+
+}
+body{
+    
+    background-color:red;
+    height: 100vh;;
+    display: block;
+    
+    margin:auto;
+}
+.container{
+    max-width:960px;
+    background-color: rgb(19, 20, 20);
+    margin: auto;
+    height: 60vh;
+    padding:33px;
+    overflow-y: auto;
+    margin-bottom: 23px;
+}
+.msg{
+    background-color: white;
+    width:24%; 
+     margin:30px 20px;
+     padding:10px;
+     border:2px solid grey;
+     border-radius: 10px;;
+}
+.left{
+    float:left;
+    clear: both;
+    
+
+    
+}
+.right{
+    float: right;
+    clear: both;
+
+}
+
+#snd-container{
+    display: block;
+    margin: auto;
+   text-align: center;
+   max-width: 980px;
+   width: 100%;
+}
+#message{
+    width:92%;
+    border:1px solid black;
+    height: 34px;;
+
+}
+.btn{
+    cursor: pointer;
+    border:2px solid black;
+    height: 34px;
+}
+body{
+    
+    background-image:red;
+    height: 100vh;;
+    
+}
